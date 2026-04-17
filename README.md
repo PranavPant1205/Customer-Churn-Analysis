@@ -78,5 +78,3 @@ _Add your Power BI dashboard screenshots here_
 <img width="1435" height="795" alt="image" src="https://github.com/user-attachments/assets/e379af17-2909-4347-8561-05fcc25f083c" />
 
 ---
-
-## 📎 Project Structure
