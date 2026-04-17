@@ -73,7 +73,8 @@ Performed data cleaning using Python, conducted business analysis using SQL, and
 
 ## 📷 Dashboard Preview
 _Add your Power BI dashboard screenshots here_
-<img width="1795" height="806" alt="image" src="https://github.com/user-attachments/assets/2689d169-2b4f-4fbf-9f32-77d30a2da1e5" />
+<img width="1423" height="798" alt="image" src="https://github.com/user-attachments/assets/d1399be3-328f-433a-b641-aa296c279b84" />
+
 <img width="1435" height="795" alt="image" src="https://github.com/user-attachments/assets/e379af17-2909-4347-8561-05fcc25f083c" />
 
 ---
